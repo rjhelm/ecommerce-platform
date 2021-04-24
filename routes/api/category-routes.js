@@ -1,4 +1,5 @@
 const router = require('express').Router();
+const { reset } = require('nodemon');
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
@@ -48,6 +49,13 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new category
+  Category.create({
+    category_name: req.body.category_name,
+  }).then((dbProductData) => res.json(dbProductData))
+  .catch((err) => {
+    console.log(err);
+    res.status(500).json(err);
+  });
 });
 
 router.put('/:id', (req, res) => {
