@@ -91,4 +91,6 @@ Enter password when prompted
 :octocat: [Ryan Helm](https://github.com/rjhelm)
 
 ## Questions
-Questions are welcome and you can contact me at: [email](mailto:ryjhelm@gmail.com) , [GitHub](https://github.com/rjhelm)<br />
+Questions are welcome and you can contact me at: 
+[email](mailto:ryjhelm@gmail.com) 
+[GitHub](https://github.com/rjhelm)<br />
