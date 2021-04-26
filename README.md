@@ -27,7 +27,7 @@
 
 ![Tags](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/tags-example.PNG)
 
-![Walkthrough Video](https://drive.google.com/file/d/1HG7tbH1j7O7NuXNJe_eaGoLNQq8rg5zJ/view)
+[Walkthrough Video](https://drive.google.com/file/d/1HG7tbH1j7O7NuXNJe_eaGoLNQq8rg5zJ/view)
   
 ## User Story
   
