@@ -70,7 +70,8 @@ router.put('/:id', (req, res) => {
     where: {
       id: req.params.id,
     },
-  }).then((dbTagData) => {
+  })
+    .then((dbTagData) => {
       if (!dbTagData[0]) {
         res
           .status(404)
@@ -78,7 +79,8 @@ router.put('/:id', (req, res) => {
         return;
       }
       res.json(dbTagData);
-    }).catch((err) => {
+    })
+    .catch((err) => {
       console.log(err);
       res.status(500).json(err);
     });
