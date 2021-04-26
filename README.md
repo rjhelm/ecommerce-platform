@@ -17,15 +17,15 @@
 
  Backend for E-Commerce site that uses mysql2, Sequilize, node, and more.
   
-![Seeds](assets\run-seeeds.PNG)
+![Seeds](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/run-seeeds.PNG)
 
-![Start](assets\start-app.PNG)
+![Start](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/start-app.PNG)
 
-![Categories](assets\categories-example.PNG)
+![Categories](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/categories-example.PNG)
 
-![Products](assets\products-example.PNG)
+![Products](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/products-example.PNG)
 
-![Tags](assets\tags-example.PNG)
+![Tags](https://github.com/rjhelm/ecommerce-platform/blob/main/assets/tags-example.PNG)
 
 ![Walkthrough Video](https://drive.google.com/file/d/1HG7tbH1j7O7NuXNJe_eaGoLNQq8rg5zJ/view)
   
