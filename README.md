@@ -92,5 +92,5 @@ Enter password when prompted
 
 ## Questions
 Questions are welcome and you can contact me at: 
-[email](mailto:ryjhelm@gmail.com) 
+[email](mailto:ryjhelm@gmail.com)<br /> 
 [GitHub](https://github.com/rjhelm)<br />
