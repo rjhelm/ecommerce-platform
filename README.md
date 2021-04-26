@@ -1,8 +1,8 @@
 <h1 align="center">E-Commerce Platform || Backend for E-Commerce Web App</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/languages/top/rjhelm/e-commerce-backend"  />
-    <img src="https://img.shields.io/github/last-commit/rjhelm/e-commerce-backend" >
+    <img src="https://img.shields.io/github/languages/top/rjhelm/ecommerce-platform"  />
+    <img src="https://img.shields.io/github/last-commit/rjhelm/ecommerce-platform" >
 </p>
   
 <p align="center">
